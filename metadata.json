@@ -1,0 +1,6 @@
+{
+  "name": "Veo 3 Video Generator",
+  "description": "Generate high-definition AI videos using Google's latest Veo 3 model with text or JSON prompts, reference image upload, custom aspect ratios, resolution, and audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
